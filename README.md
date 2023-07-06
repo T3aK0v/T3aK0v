@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @T3aK0v
+- 👀 I’m interested in programming/webdevelopment, gaming and reading!
+- 🌱 I’m currently in university of System- and computer sciences, trying to learn JavaScript.
+- 📫 How to reach me: e-mail teodorakovv@gmail.com
